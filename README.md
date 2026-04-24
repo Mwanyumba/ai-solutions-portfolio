@@ -1,4 +1,3 @@
-# ai-solutions-portfolio
 # AI Solutions Engineering Portfolio
 
 This repository demonstrates my hands-on learning and applied work in:
